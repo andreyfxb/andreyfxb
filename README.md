@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Capa bonita -->
+<img src="https://i.imgur.com/seu-link-aqui.png" width="100%" alt="Banner do GitHub"/>
 
-<!--
-**andreyfxb/andreyfxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! 👋 Eu sou o Andrey
 
-Here are some ideas to get you started:
+💻 Estudante de ADS | Amante de programação  
+🚀 Buscando oportunidades como estagiário em TI  
+📚 Aprendendo Python, Java e Banco de Dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+
+![Andrey GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey123&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contato
+
+- Email: seuemail@email.com  
+- LinkedIn: [linkedin.com/in/seu-nome](https://linkedin.com/in/seu-nome)
+
