@@ -1,5 +1,5 @@
 <!-- Capa bonita -->
-<img src="https://i.imgur.com/seu-link-aqui.png" width="100%" alt="Banner do GitHub"/>
+<img src="https://i.postimg.cc/kgq0GnfS/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg" width="100%" alt="Banner do GitHub"/>
 
 # Olá! 👋 Eu sou o Andrey
 
